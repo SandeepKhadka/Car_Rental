@@ -1,8 +1,8 @@
-Composer Install
-php install
-node install
-XAMPP install
-laravel install
+1. Composer Install
+2. php install
+3. node install
+4. XAMPP install
+5. laravel install
 
 
 
